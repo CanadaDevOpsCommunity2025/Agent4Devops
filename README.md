@@ -3,6 +3,7 @@
 ## Main person 
 - David,
 - dzhou026@uottawa.ca
-Team members : 
+
+### Team members : 
 - John Requio,
 - jasonau003
