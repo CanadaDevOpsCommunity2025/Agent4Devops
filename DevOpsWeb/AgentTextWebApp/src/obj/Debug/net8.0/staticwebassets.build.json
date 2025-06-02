@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cVM80Si8mgskGCkKIK6oiJxW9XSw6ompJnu5avAU5cw=",
+  "Source": "AgentTextWebApp",
+  "BasePath": "_content/AgentTextWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
