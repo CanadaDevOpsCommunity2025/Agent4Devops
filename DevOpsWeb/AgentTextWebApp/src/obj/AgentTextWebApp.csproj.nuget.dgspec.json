@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\DevOpsWeb\\AgentTextWebApp\\src\\AgentTextWebApp.csproj": {}
+    "C:\\Projects\\DevOpsGenAI\\DevOpsWeb\\AgentTextWebApp\\src\\AgentTextWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\DevOpsWeb\\AgentTextWebApp\\src\\AgentTextWebApp.csproj": {
+    "C:\\Projects\\DevOpsGenAI\\DevOpsWeb\\AgentTextWebApp\\src\\AgentTextWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\DevOpsWeb\\AgentTextWebApp\\src\\AgentTextWebApp.csproj",
+        "projectUniqueName": "C:\\Projects\\DevOpsGenAI\\DevOpsWeb\\AgentTextWebApp\\src\\AgentTextWebApp.csproj",
         "projectName": "AgentTextWebApp",
-        "projectPath": "C:\\Projects\\DevOpsWeb\\AgentTextWebApp\\src\\AgentTextWebApp.csproj",
+        "projectPath": "C:\\Projects\\DevOpsGenAI\\DevOpsWeb\\AgentTextWebApp\\src\\AgentTextWebApp.csproj",
         "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\DevOpsWeb\\AgentTextWebApp\\src\\obj\\",
+        "outputPath": "C:\\Projects\\DevOpsGenAI\\DevOpsWeb\\AgentTextWebApp\\src\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

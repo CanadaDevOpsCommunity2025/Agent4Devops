@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgentTextWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fb656540800f29b8420f1d9ba4372d461aae5fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgentTextWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgentTextWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
